@@ -1,5 +1,5 @@
 
-entrar en la web como la de abajo -> F12 -> Consola -> ejecutar el script y descarga un csv
+entrar en la web como la de abajo -> F12 -> Consola -> ejecutar el script  1 -> ejecutar script 2 
 
 https://mtga.untapped.gg/profile/4b635d71-4938-49c9-89fd-0dc61183f64d/67QZLUNWXFH6HLQENV3BYMZDQI/deck/53f9cd39-e988-4d7a-8b38-48e46225191a?gameType=constructed&constructedType=ranked&constructedFormat=historic
 
